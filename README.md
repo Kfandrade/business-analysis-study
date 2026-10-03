@@ -371,5 +371,6 @@ Responda com a sua classificação para as frases 1, 2, 3 e 4! Em seguida, avali
 The Business Analysis Standard (IIBA - Seção 4.4.2 "Requirement Classification", Seção 4.4.3 "Tracing Requirements and Designs" e Seção 3.3 "Business Analysis Principles")
 An Overview of Business Requirements (Modern Analyst - Morgan Masters)
 
-LINK DO NOTEBOOK: 
+
+LINK:   https://github.com/Kfandrade/business-analysis-study
 
